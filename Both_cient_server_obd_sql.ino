@@ -1,3 +1,19 @@
+/*------------------------------------------------------------------------------
+  10/04/2020
+  Author: Narendok/Shivam @ROBOSLOG TEAM
+  Platforms: ESP8266
+  Language: C++/Arduino
+  File: ESP_Agri_thingspeak.ino
+------------------------------------------
+  Please consider buying products from ROBOSLOF to help fund future
+  Open-Source projects like this! We'll always put our best effort in every
+  project, and release all our design files and code for you to use.
+
+  https://roboslog.in/agri
+  ------------------------------------------------------------------------------
+  License:
+  Please see attached LICENSE.txt file for details.   
+ ----------------------------------------------------------------------------- */
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 #include <WiFiClient.h>
