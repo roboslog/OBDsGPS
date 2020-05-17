@@ -62,6 +62,6 @@ What else OBD can do ?
 & Many more….
 
  
-Our all files & Code here are For Non-Commercial use Only, For Commercial Use: Give Credit to ROBOSLOG
+Our all files & Code here are For Non-Commercial (Educational) use Only, For Commercial Use: Give Credit to ROBOSLOG
 Thanks
 More updates coming soon..
